@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=AGND Pin=C21-1
+Removed Pin From Net: NetName=AGND Pin=C22-1
+Removed Pin From Net: NetName=AGND Pin=C24-1
+Removed Pin From Net: NetName=AGND Pin=C26-1
+Removed Pin From Net: NetName=AGND Pin=C29-2
+Removed Pin From Net: NetName=AGND Pin=C30-1
+Removed Pin From Net: NetName=AGND Pin=C31-1
+Removed Pin From Net: NetName=AGND Pin=CN8-2
+Removed Pin From Net: NetName=AGND Pin=CN9-2
+Removed Pin From Net: NetName=AGND Pin=CN9-3
+Removed Pin From Net: NetName=AGND Pin=D5-1
+Removed Pin From Net: NetName=AGND Pin=D7-2
+Removed Pin From Net: NetName=AGND Pin=Q2-3
+Removed Pin From Net: NetName=AGND Pin=Q5-3
+Removed Pin From Net: NetName=AGND Pin=Q6-3
+Removed Pin From Net: NetName=AGND Pin=R35-1
+Removed Pin From Net: NetName=AGND Pin=R36-1
+Removed Pin From Net: NetName=AGND Pin=R37-1
+Removed Pin From Net: NetName=AGND Pin=R42-1
+Removed Pin From Net: NetName=AGND Pin=R43-1
+Removed Pin From Net: NetName=AGND Pin=TP38-1
+Removed Pin From Net: NetName=AGND Pin=TP49-1
+Removed Pin From Net: NetName=AGND Pin=U7-9
+Removed Pin From Net: NetName=AGND Pin=U8-4
+Removed Pin From Net: NetName=AGND Pin=U9-4
+Removed Pin From Net: NetName=AGND Pin=U10-4
+Removed Pin From Net: NetName=AGND Pin=U11-10
+Removed Pin From Net: NetName=AGND Pin=U11-11
+Removed Pin From Net: NetName=AGND Pin=U11-12
+Removed Pin From Net: NetName=AGND Pin=U12-8
+Removed Pin From Net: NetName=AGND Pin=U12-13
+Added Component: Designator=NT1(NET_TIE)
+Added Component: Designator=NT2(NET_TIE)
+Added Pin To Net: NetName=AGND Pin=NT2-2
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Added Pin To Net: NetName=AGND Pin=NT1-2
+Added Pin To Net: NetName=AGND Pin=R42-1
+Added Pin To Net: NetName=AGND Pin=R43-1
+Added Pin To Net: NetName=AGND Pin=TP49-1
+Added Pin To Net: NetName=AGND Pin=U12-8
+Added Net: Name=AGND
+Added Pin To Net: NetName=PGND Pin=C21-1
+Added Pin To Net: NetName=PGND Pin=C22-1
+Added Pin To Net: NetName=PGND Pin=C24-1
+Added Pin To Net: NetName=PGND Pin=C26-1
+Added Pin To Net: NetName=PGND Pin=C29-2
+Added Pin To Net: NetName=PGND Pin=C30-1
+Added Pin To Net: NetName=PGND Pin=C31-1
+Added Pin To Net: NetName=PGND Pin=CN8-2
+Added Pin To Net: NetName=PGND Pin=CN9-2
+Added Pin To Net: NetName=PGND Pin=CN9-3
+Added Pin To Net: NetName=PGND Pin=D5-1
+Added Pin To Net: NetName=PGND Pin=D7-2
+Added Pin To Net: NetName=PGND Pin=NT1-1
+Added Pin To Net: NetName=PGND Pin=NT2-1
+Added Pin To Net: NetName=PGND Pin=Q2-3
+Added Pin To Net: NetName=PGND Pin=Q5-3
+Added Pin To Net: NetName=PGND Pin=Q6-3
+Added Pin To Net: NetName=PGND Pin=R35-1
+Added Pin To Net: NetName=PGND Pin=R36-1
+Added Pin To Net: NetName=PGND Pin=R37-1
+Added Pin To Net: NetName=PGND Pin=TP38-1
+Added Pin To Net: NetName=PGND Pin=U7-9
+Added Pin To Net: NetName=PGND Pin=U8-4
+Added Pin To Net: NetName=PGND Pin=U9-4
+Added Pin To Net: NetName=PGND Pin=U10-4
+Added Pin To Net: NetName=PGND Pin=U11-10
+Added Pin To Net: NetName=PGND Pin=U11-11
+Added Pin To Net: NetName=PGND Pin=U11-12
+Added Pin To Net: NetName=PGND Pin=U12-13
+Added Net: Name=PGND
+Added Member To Class: ClassName=Fuente y reguladores de Voltaje Member=Component NT1 NT
+Added Member To Class: ClassName=Fuente y reguladores de Voltaje Member=Component NT2 NT
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
