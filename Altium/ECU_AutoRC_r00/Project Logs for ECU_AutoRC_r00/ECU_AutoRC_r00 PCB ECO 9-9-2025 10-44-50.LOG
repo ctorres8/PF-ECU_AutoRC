@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetTP23_1 Pin=U1-23
+Removed Pin From Net: NetName=NetTP24_1 Pin=U1-41
+Removed Pin From Net: NetName=NetTP26_1 Pin=U1-42
+Removed Pin From Net: NetName=NetTP28_1 Pin=U1-43
+Removed Pin From Net: NetName=NetTP27_1 Pin=U1-44
+Removed Pin From Net: NetName=NetTP29_1 Pin=U1-45
+Removed Pin From Net: NetName=NetTP36_1 Pin=U1-51
+Removed Pin From Net: NetName=NetTP39_1 Pin=U1-52
+Removed Pin From Net: NetName=NetTP40_1 Pin=U1-53
+Change Component Description : Designator=F1 Old Description=Fuse New Description=Fuse | Quick Acting
+Added Pin To Net: NetName=NetTP23_1 Pin=U1-33
+Added Pin To Net: NetName=NetTP24_1 Pin=U1-34
+Added Pin To Net: NetName=NetTP26_1 Pin=U1-35
+Added Pin To Net: NetName=NetTP28_1 Pin=U1-40
+Added Pin To Net: NetName=NetTP27_1 Pin=U1-41
+Added Pin To Net: NetName=NetTP29_1 Pin=U1-42
+Added Pin To Net: NetName=NetTP36_1 Pin=U1-54
+Added Pin To Net: NetName=NetTP39_1 Pin=U1-56
+Added Pin To Net: NetName=NetTP40_1 Pin=U1-57
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U2-2
+Added Net: Name=NetU1_14

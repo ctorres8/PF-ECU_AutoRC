@@ -1,0 +1,8 @@
+Change Component Description : Designator=F1 Old Description=Fuse New Description=Fuse | Quick Acting
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Net: Name=NetU1_23
+Added Member To Class: ClassName=CPU- Clock, JTAG y Power Member=Component U1 STM32F401RET6

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=NT3-1
+Removed Pin From Net: NetName=GND Pin=NT3-2
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=GND Pin=TP38-1
+Removed Pin From Net: NetName=GND Pin=U11-10
+Removed Pin From Net: NetName=GND Pin=U11-11
+Removed Pin From Net: NetName=GND Pin=U11-12
+Removed Member From Class: ClassName=Driver Motor Brushless Member=NT3
+Change Component Description : Designator=F1 Old Description=Fuse New Description=Fuse | Quick Acting
+Change Component Kind : Designator=NT1 Old Kind=Net Tie New Kind=Standard
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=CN8-2
+Added Pin To Net: NetName=GND Pin=CN9-2
+Added Pin To Net: NetName=GND Pin=CN9-3
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=NT1-1
+Added Pin To Net: NetName=GND Pin=U12-13
+Added Pin To Net: NetName=GND_MB Pin=R35-1
+Added Pin To Net: NetName=GND_MB Pin=R36-1
+Added Pin To Net: NetName=GND_MB Pin=R37-1
+Added Pin To Net: NetName=GND_MB Pin=TP38-1
+Added Pin To Net: NetName=GND_MB Pin=U11-10
+Added Pin To Net: NetName=GND_MB Pin=U11-11
+Added Pin To Net: NetName=GND_MB Pin=U11-12
+Added Net: Name=GND_MB
+Added Rule: Name=Schematic Supply Nets_8

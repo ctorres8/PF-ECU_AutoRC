@@ -1,0 +1,77 @@
+Added Component: Designator=U2(PQFN50P200X200X100-12N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LIS2HH12TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-12 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LIS2HH12TR/STMicroelectronics/view-part/552242/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Add Pin To Net: Unknown Pin: Pin TP13-1
+Add Pin To Net: Unknown Pin: Pin TP14-1
+Add Pin To Net: Unknown Pin: Pin TP15-1
+Add Pin To Net: Unknown Pin: Pin TP16-1
+Add Pin To Net: Unknown Pin: Pin TP17-1
+Add Pin To Net: Unknown Pin: Pin TP18-1
+Add Pin To Net: Unknown Pin: Pin TP19-1
+Add Pin To Net: Unknown Pin: Pin TP20-1
+Add Pin To Net: Unknown Pin: Pin TP21-1
+Add Pin To Net: Unknown Pin: Pin TP22-1
+Add Pin To Net: Unknown Pin: Pin TP23-1
+Add Pin To Net: Unknown Pin: Pin TP24-1
+Add Pin To Net: Unknown Pin: Pin TP25-1
+Add Pin To Net: Unknown Pin: Pin TP26-1
+Add Pin To Net: Unknown Pin: Pin TP27-1
+Add Pin To Net: Unknown Pin: Pin TP28-1
+Add Pin To Net: Unknown Pin: Pin TP29-1
+Add Pin To Net: Unknown Pin: Pin TP30-1
+Add Pin To Net: Unknown Pin: Pin TP31-1
+Add Pin To Net: Unknown Pin: Pin TP32-1
+Add Pin To Net: Unknown Pin: Pin TP33-1
+Add Pin To Net: Unknown Pin: Pin TP34-1
+Add Pin To Net: Unknown Pin: Pin TP35-1
+Add Pin To Net: Unknown Pin: Pin TP36-1
+Add Pin To Net: Unknown Pin: Pin TP37-1
+Add Pin To Net: Unknown Pin: Pin TP38-1
+Add Pin To Net: Unknown Pin: Pin TP39-1
+Add Pin To Net: Unknown Pin: Pin TP40-1
+Add Pin To Net: Unknown Pin: Pin TP41-1
+Add Pin To Net: Unknown Pin: Pin TP42-1
+Add Pin To Net: Unknown Pin: Pin TP43-1
+Add Pin To Net: Unknown Pin: Pin TP44-1
+Add Pin To Net: Unknown Pin: Pin TP45-1
+Add Pin To Net: Unknown Pin: Pin TP46-1
+Add Pin To Net: Unknown Pin: Pin TP47-1
+Add Pin To Net: Unknown Pin: Pin TP48-1
+Add Pin To Net: Unknown Pin: Pin TP49-1
+Add Pin To Net: Unknown Pin: Pin TP50-1
+Added Pin To Net: NetName=NetTP11_1 Pin=U2-1
+Added Pin To Net: NetName=NetU1_54 Pin=U2-2
+Added Pin To Net: NetName=AGND Pin=U2-3
+Added Pin To Net: NetName=NetTP12_1 Pin=U2-4
+Added Pin To Net: NetName=AGND Pin=U2-5
+Added Pin To Net: NetName=AGND Pin=U2-6
+Added Pin To Net: NetName=AGND Pin=U2-7
+Added Pin To Net: NetName=AGND Pin=U2-8
+Added Pin To Net: NetName=+3V3 Pin=U2-9
+Added Pin To Net: NetName=+3V3 Pin=U2-10
+Added Member To Class: ClassName=Acelerómetro y Servomotor Member=Component U2 LIS2HH12TR

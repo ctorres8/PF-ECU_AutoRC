@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=TMS Pin=CN6-1
+Removed Pin From Net: NetName=TDI Pin=CN6-2
+Removed Pin From Net: NetName=TCK Pin=CN6-3
+Removed Pin From Net: NetName=TDO Pin=CN6-4
+Change Component Footprint: Designator=CN6 Old Footprint=HEADER_M_1X4_2.5MM New Footprint=HEADER_2x3_2.5MM
+Change Component Comment : Designator=CN6 Old Comment=JTAG New Comment=JTAG ESP
+Added Pin To Net: NetName=+3V3 Pin=CN6-1
+Added Pin To Net: NetName=TMS Pin=CN6-2
+Added Pin To Net: NetName=TDI Pin=CN6-3
+Added Pin To Net: NetName=TCK Pin=CN6-4
+Added Pin To Net: NetName=TDO Pin=CN6-5
+Added Pin To Net: NetName=GND Pin=CN6-6
+Added Member To Class: ClassName=CPU- Clock, JTAG y Power Member=Component U1 STM32F401RET6
+Added Member To Class: ClassName=Driver Motor Brushless Member=Component U10 IR2101STRPBF
