@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HBOXWWNI
 
 [Document5]
-DocumentPath=ECU_AutoRC_ACC_SERVO_r00.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YILZRGQM
-
-[Document6]
 DocumentPath=ECU_AutoRC_STEMP_r00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBKKMOCS
 
-[Document7]
+[Document6]
 DocumentPath=ECU_AutoRC_BLE_r00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOJXSTAT
 
-[Document8]
+[Document7]
 DocumentPath=ECU_AutoRC_MOT_DRIVER_r00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFTXZCJO
 
-[Document9]
+[Document8]
 DocumentPath=ECU_AutoRC_MOT_BEMF_r00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBOZUSWG
 
-[Document10]
+[Document9]
 DocumentPath=ECU_AutoRC_PWR_SUPPLY_6A_r00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIMAIYVX
 
-[Document11]
+[Document10]
 DocumentPath=ECU_AutoRC_BLK_r00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFSLYLCM
 
-[Document12]
+[Document11]
 DocumentPath=ECU_AutoRC_r00.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
